@@ -1,4 +1,18 @@
-.max-length {
-  color: #fff;
-  top: 20em;
+.box-1 {
+  background-color: #e86033;
+  font-family: "Rammetto One", cursive;
+}
+
+.box-2 {
+  background-color: #fbd25e;
+  font-family: "Gravitas One", cursive;
+}
+
+.box-3 {
+  background-color:#e97065;
+  font-family: "Comfortaa", cursive;
+}
+
+p {
+  font-family: "Open Sans" , sans-serif;
 }
