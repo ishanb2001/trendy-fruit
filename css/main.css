@@ -18,34 +18,34 @@ html {
   box-sizing: inherit;
 }
 
-body{
+body {
   margin: 0;
 }
 
 .watermelon {
- background-color: #e97065;
+  background-color: #e97065;
 }
 
 .watermelon h2 {
- font-family: "Rammetto One", cursive;
+  font-family: "Rammetto One", cursive;
 }
 
 .starfruit {
   background-color: #fbd25e;
 }
 
-.starfruit h2{
+.starfruit h2 {
   font-family: "Gravitas One", cursive;
 }
 
 .persimmon {
- background-color: #e86033;
+  background-color: #e86033;
 }
 
-.persimmon h2{
- font-family: "Comfortaa", cursive;
+.persimmon h2 {
+  font-family: Comfortaa, cursive;
 }
 
 p {
-  font-family: "Open Sans" , sans-serif;
+  font-family: "Open Sans", sans-serif;
 }
